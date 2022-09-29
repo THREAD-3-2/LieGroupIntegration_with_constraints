@@ -22,6 +22,10 @@ In view of [THREAD](https://thread-etn.eu/)'s Deliverable D3.2, the relevant rep
 * [**liegroup**](https://github.com/StHante/liegroup): basic components of Lie group integrators like exponential map, tangent operator, ... ,
 * [**heavy_top**](https://github.com/StHante/heavy_top): benchmark problem Heavy Top[^BrulsCardona10].
 
+
+![](https://github.com/THREAD-3-2/.github/blob/main/profile/thread-logo.jpg)
+![](https://github.com/THREAD-3-2/.github/blob/main/profile/flag_yellow.png)
+
 [^ArnoldBrulsCardona15]: M. Arnold, O. Brüls, and A. Cardona: Error analysis of generalized-&#945; Lie group time integration methods for constrained mechanical systems. *Numerische Mathematik* **129**(2015)149-179. [https://doi.org/10.1007/s00211-014-0633-1](https://doi.org/10.1007/s00211-014-0633-1)
 
 [^ArnoldCardonaBruls16]: M. Arnold, A. Cardona, and O. Brüls: A Lie algebra approach to Lie group time integration of constrained systems. In P. Betsch, editor, *Structure-Preserving Integrators in Nonlinear Structural Dynamics and Flexible Multibody Dynamics*, volume 565 of *CISM Courses and Lectures*, pages 91-158. Springer International Publishing, Cham, 2016. [https://doi.org/10.1007/978-3-319-31879-0_3](https://doi.org/10.1007/978-3-319-31879-0_3)
